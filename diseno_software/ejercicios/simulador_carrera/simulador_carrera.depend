@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632915600 source:/home/alumnos/adrianco/Escritorio/diseno_software/simulador_carrera/main.cpp
+	<iostream>
+	<math.h>
+

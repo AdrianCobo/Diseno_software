@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1633954061 source:/home/alumnos/adrianco/Escritorio/diseno_software/primos/main.cpp
+	<iostream>
+	"primes1.h"
+	"searches1.h"
+	"time.h"
+
+1633522199 /home/alumnos/adrianco/Escritorio/diseno_software/primos/primes.h
+
+1633953574 /home/alumnos/adrianco/Escritorio/diseno_software/primos/searches.h
+	"time.h"
+	"primes1.h"
+
+1633953462 /home/alumnos/adrianco/Escritorio/diseno_software/primos/primes1.h
+
+1633953704 source:/home/alumnos/adrianco/Escritorio/diseno_software/primos/primes1.cpp
+	<math.h>
+	"searches.h"
+
+1633953832 source:/home/alumnos/adrianco/Escritorio/diseno_software/primos/searches1.cpp
+	"searches1.h"
+
+1633953808 /home/alumnos/adrianco/Escritorio/diseno_software/primos/searches1.h
+	"time.h"
+	"primes1.h"
+

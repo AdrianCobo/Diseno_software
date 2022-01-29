@@ -1,0 +1,24 @@
+    ----------------dentro del main----------------
+    
+    srand(time(NULL));
+    //jugar();
+
+    tJuego juego;
+    tMano *mano = new tMano;
+    tCarta carta;
+
+    for(int i = 8; i < 13; i++)
+    {
+        mano->carta[i-8].valor = i+1;
+        mano->carta[i-8].palo = 1;
+        if(i == 8)
+        {
+            mano->carta[i-8].palo = 2;
+            mano->carta[i-8].valor = 1;
+        }
+    }
+    mostrarMano(mano);
+    cout << calcularPuntosMano(mano);
+
+
+    return 0;

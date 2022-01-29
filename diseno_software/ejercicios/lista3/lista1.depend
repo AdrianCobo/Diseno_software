@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1635165538 source:/home/alumnos/adrianco/Escritorio/diseno_software/lista1/lista1.cpp
+	<iostream>
+	"lista1.h"
+
+1635163859 /home/alumnos/adrianco/Escritorio/diseno_software/lista1/lista1.h
+
+1635165575 source:/home/alumnos/adrianco/Escritorio/diseno_software/lista1/lista1_test.cpp
+	<iostream>
+	"lista1.h"
+	"lista1_test.h"
+
+1635165538 /home/alumnos/adrianco/Escritorio/diseno_software/lista1/lista1_test.h
+	"lista1.h"
+
+1635165538 source:/home/alumnos/adrianco/Escritorio/diseno_software/lista1/main.cpp
+	<iostream>
+	"lista1_test.h"
+
+1635335988 source:/home/alumnos/adrianco/Escritorio/diseno_software/lista3/lista3.cpp
+	<iostream>
+	"lista3.h"
+
+1635163868 /home/alumnos/adrianco/Escritorio/diseno_software/lista3/lista3.h
+
+1635336251 source:/home/alumnos/adrianco/Escritorio/diseno_software/lista3/lista3_test.cpp
+	<iostream>
+	"lista3.h"
+	"lista3_test.h"
+
+1635335880 /home/alumnos/adrianco/Escritorio/diseno_software/lista3/lista3_test.h
+	"lista3.h"
+
+1635335880 source:/home/alumnos/adrianco/Escritorio/diseno_software/lista3/main.cpp
+	<iostream>
+	"lista3_test.h"
+

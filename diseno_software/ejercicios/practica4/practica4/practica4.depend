@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1607264622 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/identificador.cpp
+	"identificador.h"
+
+1637589167 /home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/identificador.h
+	"tvehiculo.h"
+
+1574048806 /home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/tvehiculo.h
+
+1639913447 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/main.cpp
+	<iostream>
+	"tvehiculo.h"
+	"identificador.h"
+	"planta.h"
+	"parking.h"
+
+1639912894 /home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/planta.h
+	<iostream>
+	"tvehiculo.h"
+	"bloque.h"
+
+1574026162 /home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/bloque.h
+
+1639912799 /home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/parking.h
+	"tvehiculo.h"
+	"planta.h"
+
+1639916001 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/planta.cpp
+	<iostream>
+	"planta.h"
+	"identificador.h"
+	"bloque.h"
+
+1638732358 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/bloque.cpp
+	<iostream>
+	"bloque.h"
+
+1639917915 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica4/practica4/parking.cpp
+	<iostream>
+	"planta.h"
+	"identificador.h"
+	"bloque.h"
+	"parking.h"
+

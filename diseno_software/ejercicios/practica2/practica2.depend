@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1635594511 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica2/mmind_basic.cpp
+	"mmind_basic.h"
+	"intermediate_functions.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<math.h>
+
+1635594506 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica2/intermediate_functions.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"intermediate_functions.h"
+	"mmind_basic.h"
+
+1635594250 /home/alumnos/adrianco/Escritorio/diseno_software/practica2/intermediate_functions.h
+
+1635588813 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica2/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"intermediate_functions.h"
+
+1634126115 /home/alumnos/adrianco/Escritorio/diseno_software/practica2/mmind_basic.h
+

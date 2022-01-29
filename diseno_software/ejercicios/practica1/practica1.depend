@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1633895185 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica1/main.cpp
+	"interface.h"
+	<iostream>
+
+1633347626 /home/alumnos/adrianco/Escritorio/diseno_software/practica1/tdttt.h
+
+1633878371 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica1/interfaz.cpp
+	"iterfaz.h"
+	<iostream>
+
+1633351475 /home/alumnos/adrianco/Escritorio/diseno_software/practica1/iterfaz.h
+	"tdttt.h"
+
+1633879379 /home/alumnos/adrianco/Escritorio/diseno_software/practica1/interface.h
+	"tdttt.h"
+
+1634050265 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica1/interface.cpp
+	"iterfaz.h"
+	<iostream>
+

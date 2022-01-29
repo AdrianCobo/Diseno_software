@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1641297821 source:/home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/habitacion.cpp
+	<iostream>
+	"habitacion.h"
+	"tipos.h"
+
+1638443246 /home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/habitacion.h
+	"tipos.h"
+	"posicion.h"
+	"coordenadas.h"
+
+1575293208 /home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/tipos.h
+
+1574936368 /home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/posicion.h
+
+1575293332 /home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/coordenadas.h
+	"tipos.h"
+	"posicion.h"
+
+1641303256 source:/home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<unistd.h>
+	"tipos.h"
+	"posicion.h"
+	"coordenadas.h"
+	"habitacion.h"
+	"robot.h"
+	"pibot.h"
+
+1638443020 /home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/robot.h
+	"coordenadas.h"
+
+1641298999 /home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/pibot.h
+	"robot.h"
+
+1641303256 source:/home/alumnos/adrianco/Escritorio/diseno_software/proyecto/proyecto/pibot.cpp
+	"pibot.h"
+	<cmath>
+

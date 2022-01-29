@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1639399646 source:/home/alumnos/adrianco/Escritorio/diseno_software/Ejercicio_herencia/EnteAbstracto.cpp
+	"EnteAbstracto.h"
+
+1639399646 /home/alumnos/adrianco/Escritorio/diseno_software/Ejercicio_herencia/EnteAbstracto.h
+	<iostream>
+	<string.h>
+
+1639399272 source:/home/alumnos/adrianco/Escritorio/diseno_software/Ejercicio_herencia/Conserje.cpp
+	"Conserje.h"
+	<iostream>
+
+1639399646 /home/alumnos/adrianco/Escritorio/diseno_software/Ejercicio_herencia/Conserje.h
+	"Habitante.h"
+
+1639399272 /home/alumnos/adrianco/Escritorio/diseno_software/Ejercicio_herencia/Habitante.h
+	"EnteAbstracto.h"
+

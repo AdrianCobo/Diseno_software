@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1632915600 source:/home/alumnos/adrianco/Escritorio/diseno_software/simulador_carrera/main.cpp
+	<iostream>
+	<math.h>
+
+1632942161 source:/home/alumnos/adrianco/Escritorio/diseno_software/carrera_modulo/main.cpp
+	"race.h"
+
+1632917462 /home/alumnos/adrianco/Escritorio/diseno_software/carrera_modulo/race.h
+	<iostream>
+	<math.h>
+
+1632941513 source:/home/alumnos/adrianco/Escritorio/diseno_software/carrera_modulo/race.cpp
+	"race.h"
+

@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1637149982 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/baraja.cpp
+	<iostream>
+	"baraja.h"
+	"carta.h"
+
+1636711852 /home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/baraja.h
+	"poker_structs.h"
+
+1636382569 /home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/poker_structs.h
+
+1637400063 /home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/carta.h
+	"baraja.h"
+	<string>
+
+1637399609 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/carta.cpp
+	<iostream>
+	<string>
+	"baraja.h"
+	"carta.h"
+
+1637588702 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"baraja.h"
+	"carta.h"
+	"mano.h"
+	"juego.h"
+
+1637420966 /home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/mano.h
+	<string>
+	"baraja.h"
+	"poker_structs.h"
+
+1637424364 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/mano.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"baraja.h"
+	"poker_structs.h"
+	"mano.h"
+	"carta.h"
+
+1637403428 /home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/juego.h
+	<string>
+	"baraja.h"
+	"carta.h"
+	"mano.h"
+	"juego.h"
+
+1637583209 source:/home/alumnos/adrianco/Escritorio/diseno_software/practica3/practica3/juego.cpp
+	<iostream>
+	"baraja.h"
+	"carta.h"
+	"mano.h"
+	"juego.h"
+
